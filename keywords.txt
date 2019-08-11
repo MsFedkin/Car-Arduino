@@ -1,0 +1,19 @@
+Car	KEYWORD1
+Diplom_Car	KEYWORD1
+Diplom	KEYWORD1
+Advance	KEYWORD2
+Back	KEYWORD2
+Left	KEYWORD2
+Right	KEYWORD2
+Arret	KEYWORD2
+Round	KEYWORD2
+BuzzerSound	KEYWORD2
+SetDriver	KEYWORD2
+SetLights	KEYWORD2
+SetBuzzer	KEYWORD2
+FrontEndLight	KEYWORD2
+Beep	KEYWORD2
+
+
+
+ 
